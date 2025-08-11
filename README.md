@@ -1,6 +1,6 @@
 ## hello world!
 
-### About me:
+### about me:
 
 I am Varshini Gurushankar, currently an incoming junior at UC Davis studying Computer Science. I’m passionate about building impactful projects that blend technology and real-world usability. I enjoy experimenting with new tools, frameworks, and tech stacks — so far, I’ve worked with **Python**, **Java**, **ReactJS**, **JavaScript**, and **Swift**. I'm especially interested in AI/ML applications and building projects around it. 
 
