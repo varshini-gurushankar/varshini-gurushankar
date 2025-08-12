@@ -6,5 +6,5 @@ i am varshini gurushankar, currently an incoming junior at UC Davis studying com
 
 outside of coding, I enjoy spending time at the beach, playing badminton, and exploring new genres of music.  
 
-💌 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-📫 Questions? Reach me at [varshinigurushankar15@gmail.com](mailto:varshinigurushankar15@gmail.com)
+💌 connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+📫 questions? reach me at [varshinigurushankar15@gmail.com](mailto:varshinigurushankar15@gmail.com)
