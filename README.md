@@ -2,7 +2,7 @@
 
 ### about me:
 
-i am varshini gurushankar, currently an incoming junior at UCSD studying Math-Computer Science. i’m passionate about building impactful projects that blend technology and real-world usability. i enjoy experimenting with new tools, frameworks, and tech stacks. so far, I’ve worked with **Python**, **Java**, **ReactJS**, **JavaScript**, and **Swift**. i'm especially interested in AI/ML applications and building projects around it. 
+i am varshini gurushankar, currently an incoming junior at UCSD studying Math-Computer Science. i'm currently doing research in healthcare and interning at a startup. i’m passionate about building impactful projects that blend technology and real-world usability. i enjoy experimenting with new tools, frameworks, and tech stacks. so far, I’ve worked with **Python**, **Java**, **ReactJS**, **JavaScript**, and **Swift**. i'm especially interested in AI/ML applications and building projects around it. 
 
 outside of coding, I enjoy spending time at the beach, playing badminton, and exploring new genres of music.  
 
