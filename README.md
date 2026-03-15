@@ -7,4 +7,4 @@ i am varshini gurushankar, currently at UCSD studying Math-Computer Science. my 
 outside of coding, I enjoy spending time at the beach, running, and exploring new genres of music.  
 
 💌 connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-📫 questions? reach me at [varshinigurushankar15@gmail.com](mailto:varshinigurushankar15@gmail.com)
+📫 reach me at [varshinigurushankar15@gmail.com](mailto:varshinigurushankar15@gmail.com)
